@@ -1,7 +1,7 @@
 # M5Stack-AtomS3
 Device Overview - Getting Started with M5Stack's AtomS3  
 
-<img src="/Images/atom2.png" height="200"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/Images/atom1.png" height="200" > 
+<img src="/Images/atom2.png" height="200"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/Images/atom.png" height="200" > 
   
 **AtomS3** is a highly integrated programmable controller based on the ESP32-S3 main controller. It integrates the ESP32-S3 main controller, Wi-Fi functionality, 8 MB on-chip FLASH, and a 0.85-inch IPS screen. Below the screen, there is a programmable button function, a built-in 5V to 3.3V circuit, and a 6-axis gyroscope sensor MPU6886. It has an onboard USB Type-C interface for power supply and firmware download, as well as a HY2.0-4P expansion port. The bottom reserves 6 GPIO and power pins for easy expansion applications. The product size is 24.0 x 24.0 x 13.0mm, suitable for various embedded smart device applications.  
   
