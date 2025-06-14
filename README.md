@@ -29,9 +29,9 @@ Refer the [Documentation website](https://docs.m5stack.com/en/core/AtomS3) for m
 
 📕 **YouTube Video Links**  
 
-▶️  AtomS3 – ESP32-S3 in a 1-Inch Box! + Display! 🔗 https://youtube.com/shorts/0X7OFbnUREU
+▶️  AtomS3 – ESP32-S3 in a 1-Inch Box! + Display! 🔗 https://youtube.com/shorts/0X7OFbnUREU  
   
-▶️  [DIY Project]  🔗  https://youtu.be/  
+▶️  [DIY Project] Windows XP on This Tiny Cube? 🔗  https://youtube.com/shorts/SCCvxby3HyI   
 
 -------------------------------------------------------------------------------------------------------
 📒 **Important Links**  
