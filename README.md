@@ -33,7 +33,7 @@ Refer the [Documentation website](https://docs.m5stack.com/en/core/AtomS3) for m
   
 ▶️  [DIY Project] Windows XP on This Tiny Cube? 🔗  https://youtube.com/shorts/lWd3EPRHZ0U   
   
-▶️  [DIY Project] Displaying Animations on AtomS3 🔗  https://youtube.com/shorts/JOcTPsJ8F-Q  
+▶️  [DIY Project] Displaying Animations on AtomS3 🔗  https://youtube.com/ 
 
 -------------------------------------------------------------------------------------------------------
 📒 **Important Links**  
