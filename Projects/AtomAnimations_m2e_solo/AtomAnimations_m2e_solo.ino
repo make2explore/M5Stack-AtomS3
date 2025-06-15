@@ -1,5 +1,5 @@
 // ---------------------------------- make2explore.com -------------------------------------------------------//
-// Project           - GIF Animations on M5Stack AtomS3
+// Project           - Displaying Animations on M5Stack AtomS3
 // Created By        - info@make2explore.com
 // Last Modified     - 13/06/2025 17:36:00 @admin
 // Software          - C/C++, Arduino IDE, Libraries
